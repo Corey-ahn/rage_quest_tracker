@@ -1,3 +1,8 @@
+<!-- moved-to-dayplan -->
+> ## ➡️ 숙제 체크는 이제 **[통합 일정표](https://github.com/Corey-ahn/Rage-DayPlan/releases/tag/v0.0.1)** 로 옮겼습니다
+> 숙제 체크 기능은 그대로 있고, 일정표 · 알림 창 · 분쟁 지역 알림 · 간략 창이 더해졌습니다.
+> 이 레포는 더 이상 업데이트하지 않습니다. 옮길 때는 `infotracker2` 폴더를 지워 주세요.
+
 # 숙제 체크 (rage_quest_tracker)
 
 ArcheRage 일일·주간 숙제를 한눈에 보는 애드온입니다.
